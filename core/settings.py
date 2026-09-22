@@ -38,8 +38,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'pagina-back-end.vercel.app',
-    'localhost',
-    '127.0.0.1'
+    '.vercel.app',
+    '*',
 ]
 
 
